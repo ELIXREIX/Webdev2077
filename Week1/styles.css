@@ -5,8 +5,6 @@ table {
 
 th, td {
     border: 1px solid #ddd;
-    padding: 4px; /* Reduce padding to make text closer */
-    text-align: left;
 }
 
 th {
