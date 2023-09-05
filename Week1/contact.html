@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
     <link rel="stylesheet" type="text/css" href="formstyles.css">
+    <script src="script.js"></script>
 </head>
 <body>
     <h1>Contact Us</h1>
-    <body>
-        <h1>Contact Us</h1>
         <form action="process" method="POST">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
@@ -22,22 +21,5 @@
     
             <input type="submit" value="Submit" id="submit-button">
         </form>
-        <script>
-            // Add an event listener to the Submit button
-            document.getElementById("submit-button").addEventListener("click", function (e) {
-                // Prevent the default form submission
-                e.preventDefault();
-    
-                // Replace with your email address
-                var emailAddress = "your-email@example.com";
-    
-                // Create a "mailto" link
-                var mailtoLink = "mailto:" + emailAddress;
-    
-                // Open the user's default email client
-                window.location.href = mailtoLink;
-            });
-        </script>
-    
 </body>
 </html>
