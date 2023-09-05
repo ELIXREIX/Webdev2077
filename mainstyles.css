@@ -1,8 +1,15 @@
+/* mainstyles.css */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 h1 {
@@ -11,7 +18,11 @@ h1 {
     color: #333;
 }
 
-a {
+.week-links {
+    text-align: center;
+}
+
+.week-link {
     display: block;
     width: 200px;
     margin: 20px auto;
@@ -24,6 +35,6 @@ a {
     transition: background-color 0.3s ease;
 }
 
-a:hover {
+.week-link:hover {
     background-color: #555;
 }
