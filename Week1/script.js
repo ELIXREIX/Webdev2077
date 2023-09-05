@@ -8,14 +8,8 @@ document.getElementById("submit-button").addEventListener("click", function (e) 
     // Replace with your email address
     var emailAddress = "gofafafa10@gmail.com";
 
-    // Get the message from the input field
-    var message = document.getElementById("email-message").value;
-
-    // Encode the message for inclusion in the "mailto" link
-    var encodedMessage = encodeURIComponent(message);
-
-    // Create a "mailto" link with the message
-    var mailtoLink = "mailto:" + emailAddress + "?body=" + encodedMessage;
+    // Create a "mailto" link
+    var mailtoLink = "mailto:" + emailAddress;
 
     // Open the user's default email client
     window.location.href = mailtoLink;
