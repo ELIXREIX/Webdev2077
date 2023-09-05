@@ -13,7 +13,7 @@ h1 {
 }
 
 form {
-    max-width: 400px;
+    max-width: 500px; /* Increased max-width for better balance */
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
@@ -32,7 +32,7 @@ input[type="email"],
 textarea {
     width: 100%;
     padding: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 15px; /* Increased margin for better spacing */
     border: 1px solid #ccc;
     border-radius: 5px;
 }
@@ -42,6 +42,8 @@ textarea {
 }
 
 input[type="submit"] {
+    display: block; /* Center the submit button */
+    margin: 0 auto;
     background-color: #333;
     color: #fff;
     padding: 10px 20px;
