@@ -30,15 +30,15 @@ label {
 input[type="text"],
 input[type="email"],
 textarea {
-    width: 100%;
-    padding: 12px; /* Increased padding for text fields */
+    width: 100%; /* Set the width to 100% for responsiveness */
+    padding: 10px; /* Adjust padding to control the size */
     margin-bottom: 15px;
-    border: 2px solid #ccc; /* Increased border thickness */
+    border: 2px solid #ccc;
     border-radius: 5px;
 }
 
 textarea {
-    height: 150px;
+    height: 100px; /* Reduce the height for smaller textareas */
 }
 
 input[type="submit"] {
