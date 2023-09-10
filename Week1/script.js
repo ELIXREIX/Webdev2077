@@ -5,8 +5,8 @@ document.getElementById("submit-button").addEventListener("click", function (e) 
     // Prevent the default form submission
     e.preventDefault();
 
-    // Replace with your email address
-    var emailAddress = "gofafafa10@gmail.com";
+    // your email address
+    var emailAddress = "gofafafa11@gmail.com";
 
     // Get the message from the input field
     var message = document.getElementById("message").value;
