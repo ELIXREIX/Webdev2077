@@ -2,6 +2,9 @@
     color: orange;
     size: 200px;
 }
+.Bacon,.Broccoli {
+    border-radius: 50%;
+}
 .Bacon {
     background-color: red;
 }
