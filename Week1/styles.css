@@ -38,4 +38,20 @@ td {
     margin-left: auto;
     padding: 5px;
 }
+#goback-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
 
+#goback-button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#goback-button:hover {
+    background-color: #555;
+}
