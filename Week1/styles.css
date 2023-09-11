@@ -24,10 +24,6 @@ img {
     border-image: 3px black ;
 }
 
-/* Add a light gray background to all elements */
-body {
-    background-color:lightgray; /* You can adjust this color as needed */
-}
 hr {
         display: inline-block;
         border: 3px black;
