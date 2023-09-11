@@ -28,3 +28,7 @@
 #goback-button:hover {
     background-color: #555;
 }
+
+h1:hover {
+    background-color: red;
+}
