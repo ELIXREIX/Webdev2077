@@ -33,4 +33,7 @@ hr {
         width: 100%; /* Adjusted to fill the page width */
         margin: 0px;
 }
+td {
+    margin-left: auto;
+}
 
