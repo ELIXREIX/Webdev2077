@@ -52,7 +52,3 @@ hr {
 .my-table th {
     background-color: #333; /* Dark gray header background color */
 }
-
-.my-table tr:nth-child(even) {
-    background-color: #222; /* Darker gray alternate row background color */
-}
