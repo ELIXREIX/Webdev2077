@@ -1,18 +1,15 @@
 h3 {
     color: black;
 }
-
 .Harder {
     background-color:lightgray;
 }
-
 img {
     width: 200px; /* Set a fixed width */
     height: 200px; /* Set a fixed height */
     border-radius: 50%; /* Create a circular shape */
     border-image: 3px black ;
 }
-
 hr {
         display: inline-block;
         border: 3px black;
@@ -20,10 +17,6 @@ hr {
         height: 3px;
         width: 100%; /* Adjusted to fill the page width */
         margin: 0px;
-}
-td {
-    margin-left: auto;
-    padding: 5px;
 }
 #goback-container {
     position: fixed;
