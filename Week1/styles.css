@@ -24,3 +24,11 @@ img {
 body {
     background-color:lightgray; /* You can adjust this color as needed */
 }
+hr {
+        display: inline-block;
+        border: none;
+        border-top: 1px dotted black;
+        height: 1px;
+        width: 100%; /* Adjusted to fill the page width */
+        margin: 0px;
+}
