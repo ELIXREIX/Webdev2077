@@ -45,13 +45,12 @@ td {
 
 .my-table {
     border-collapse: collapse;
-    width: 100%;
     background-color: #000; /* Black background color */
 }
 
 .my-table th,
 .my-table td {
-    border: 1px solid #000; /* Black border */
+    border: 3px solid #000; /* Black border */
     padding: 8px;
     text-align: left;
     color: #fff; /* Text color */
