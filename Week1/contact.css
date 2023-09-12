@@ -23,7 +23,7 @@ body {
 .social-icons img {
     width: 50px; /* Adjust the size as needed */
     display: block; /* Ensure the image doesn't affect spacing */
-    margin: 50px auto; /* Center the image horizontally */
+    margin: 75px auto; /* Center the image horizontally */
 }
 img {
     scale: 200%;
@@ -31,6 +31,4 @@ img {
     height: auto; /* Set a fixed height */
     border-radius: 50%; /* Create a circular shape */
     border-image: 20px  ;
-    margin: 50px;
-
 }
