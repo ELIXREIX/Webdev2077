@@ -28,6 +28,7 @@ hr {
         height: 0px;
         width: 100% ; /* Adjusted to fill the page width */
         margin: 0px ;
+        border-collapse: collapse;
 }
 #goback-container {
     position: fixed;
