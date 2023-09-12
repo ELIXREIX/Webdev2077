@@ -22,7 +22,7 @@ img {
 }
 hr {
         display: inline-block;
-        border: 3px black;
+        border: 0px black;
         border-style: dotted none none;
         height: 0px;
         width: 100% ; /* Adjusted to fill the page width */
