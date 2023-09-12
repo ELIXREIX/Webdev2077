@@ -46,7 +46,7 @@ hr {
 
 .my-table th,
 .my-table td {
-    border: 3px solid #5C5470; /* Black border */
+    border: 3px solid #333; /* Black border */
     padding: 8px;
     text-align: left;
     color: #fff; /* Text color */
