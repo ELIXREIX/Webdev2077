@@ -26,7 +26,7 @@ body {
     margin: 50px auto; /* Center the image horizontally */
 }
 img {
-    scale: 150%;
+    scale: 200%;
     width: auto; /* Set a fixed width */
     height: auto; /* Set a fixed height */
     border-radius: 50%; /* Create a circular shape */
