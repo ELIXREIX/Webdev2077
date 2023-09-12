@@ -2,7 +2,10 @@ h3 {
     color: black;
 }
 .Harder {
-    background-color:lightgray;
+    background-color:#352F44;
+}
+.mid {
+    background-color: #B9B4C7;
 }
 img {
     width: 200px; /* Set a fixed width */
@@ -17,7 +20,6 @@ hr {
         height: 3px;
         width: 100%; /* Adjusted to fill the page width */
         margin: 0px;
-        background-color: black;
 }
 #goback-container {
     position: fixed;
