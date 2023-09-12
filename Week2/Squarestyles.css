@@ -1,6 +1,11 @@
 .middlecontainer {
+    height: 200px;
+    width: 200px;
     background-color: red;
 }
 .bottomcontainer {
+    height: 200px;
+    width: 200px;
     background-color: blue;
+
 }
