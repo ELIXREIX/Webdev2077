@@ -2,7 +2,7 @@ h3 {
     color: black;
 }
 body{
-    background-color: #352F44;
+    background-color: #EADBC8;
 }
 .Harder {
     background-color:#FAF0E6;
@@ -26,7 +26,7 @@ hr {
         border-style: dotted none none;
         height: 3px;
         width: 100% ; /* Adjusted to fill the page width */
-        margin: 5px #352F44;
+        margin: 0px ;
 }
 #goback-container {
     position: fixed;
