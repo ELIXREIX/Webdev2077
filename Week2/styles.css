@@ -5,10 +5,10 @@
 .Bacon,.Broccoli {
     border-radius: 50%;
 }
-.Bacon {
+.Bacon:hover {
     background-color: red;
 }
-.Broccoli {
+.Broccoli:hover {
     background-color: green;
 }
 #goback-container {
