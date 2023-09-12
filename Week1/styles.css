@@ -24,9 +24,9 @@ hr {
         display: inline-block;
         border: 3px black;
         border-style: dotted none none;
-        height: 3px;
+        height: 0px;
         width: 100% ; /* Adjusted to fill the page width */
-        margin: 0px black;
+        margin: 0px ;
 }
 #goback-container {
     position: fixed;
