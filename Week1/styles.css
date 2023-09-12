@@ -19,7 +19,7 @@ hr {
         border-style: dotted none none;
         height: 3px;
         width: 100% ; /* Adjusted to fill the page width */
-        margin: 0px #352F44;
+        margin: 5px #352F44;
 }
 #goback-container {
     position: fixed;
