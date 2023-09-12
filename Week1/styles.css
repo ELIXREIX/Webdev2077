@@ -63,3 +63,10 @@ hr {
 .my-table th {
     background-color: #333; /* Dark gray header background color */
 }
+#icon-contact {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
