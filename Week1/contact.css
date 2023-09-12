@@ -20,11 +20,6 @@ body {
     text-decoration: none;
 }
 
-.social-icons img {
-    width: 50px; /* Adjust the size as needed */
-    display: block; /* Ensure the image doesn't affect spacing */
-    margin: 0 auto; /* Center the image horizontally */
-}
 img {
     scale: 200%;
     width: auto; /* Set a fixed width */
