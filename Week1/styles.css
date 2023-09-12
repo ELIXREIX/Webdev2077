@@ -17,7 +17,7 @@ body{
 
 img {
     width: 200px; /* Set a fixed width */
-    height: 250px; /* Set a fixed height */
+    height: 220px; /* Set a fixed height */
     border-radius: 50%; /* Create a circular shape */
     border-image: 3px black ;
 }
