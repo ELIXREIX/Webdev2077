@@ -26,7 +26,7 @@ hr {
         border: 0px black;
         border-style: dotted none none;
         height: 0px;
-        width: 50% ; /* Adjusted to fill the page width */
+        width: 100% ; /* Adjusted to fill the page width */
         margin: 0px ;
         border-collapse: collapse;
 }
