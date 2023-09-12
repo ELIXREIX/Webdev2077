@@ -23,7 +23,7 @@ body {
 .social-icons img {
     width: 50px; /* Adjust the size as needed */
     display: block; /* Ensure the image doesn't affect spacing */
-    margin: 50 auto; /* Center the image horizontally */
+    margin: 50px auto; /* Center the image horizontally */
 }
 img {
     scale: 100%;
