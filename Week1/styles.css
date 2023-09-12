@@ -22,7 +22,6 @@ img {
     border-image: 3px black ;
 }
 hr {
-        display: inline-block;
         border: 0px black;
         border-style: dotted none none;
         height: 0px;
