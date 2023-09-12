@@ -1,12 +1,19 @@
 h3 {
     color: black;
 }
+body{
+    background-color: #352F44;
+}
 .Harder {
     background-color:#FAF0E6;
 }
 .mid {
     background-color: #B9B4C7;
 }
+.bottom {
+    background-color: #B9B4C7;
+}
+
 img {
     width: 200px; /* Set a fixed width */
     height: 200px; /* Set a fixed height */
