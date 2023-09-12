@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.social-icons a {
+    text-decoration: none;
+    margin: 10px;
+}
+
+.social-icons img {
+    width: 50px; /* Adjust the size as needed */
+}
