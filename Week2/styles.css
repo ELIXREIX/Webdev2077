@@ -32,6 +32,9 @@
 h1:hover {
     background-color: red;
 }
+#Square-container{
+    padding: auto;
+}
 #Squarebody {
     padding: 10px 20px;
     background-color: #333;
