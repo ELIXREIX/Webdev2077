@@ -26,7 +26,7 @@ hr {
         border-style: dotted none none;
         height: 3px;
         width: 100% ; /* Adjusted to fill the page width */
-        margin: 0px ;
+        margin: 0px black;
 }
 #goback-container {
     position: fixed;
