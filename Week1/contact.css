@@ -20,6 +20,7 @@ body {
     width: 50px; /* Adjust the size as needed */
 }
 img {
+    scale: 200%;
     width: auto; /* Set a fixed width */
     height: auto; /* Set a fixed height */
     border-radius: 50%; /* Create a circular shape */
