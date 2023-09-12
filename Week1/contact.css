@@ -7,17 +7,23 @@ body {
     margin: 0;
 }
 
-.social-icons {
-    text-align: center;
+.social-icons ul {
+    list-style: none; /* Remove default list styles */
+    padding: 0;
+}
+
+.social-icons li {
+    margin: 10px 0; /* Add vertical spacing between icons */
 }
 
 .social-icons a {
     text-decoration: none;
-    margin: 10px;
 }
 
 .social-icons img {
     width: 50px; /* Adjust the size as needed */
+    display: block; /* Ensure the image doesn't affect spacing */
+    margin: 0 auto; /* Center the image horizontally */
 }
 img {
     scale: 200%;
