@@ -3,21 +3,23 @@
     width: 100px;
     background-color: blue;
     position: relative;
-    left: 50px;
+    display: inline;
 }
 .bottomcontainer {
     height: 100px;
     width: 100px;
     background-color: yellow;
     position: relative;;
-    left: 100px;
+    display: inline;
+
 }
 .topcontainer {
     height: 100px;
     width: 100px;
     background-color: red;
     position: relative;
-    left: 150px;
+    display: inline;
+
 }
 body{
     margin: 0px;
