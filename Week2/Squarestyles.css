@@ -3,7 +3,7 @@
     width: 100px;
     background-color: blue;
     position: relative;
-    top: 100px;
+    bottom: 100px;
     left: 100px;
 }
 .bottomcontainer {
@@ -11,7 +11,7 @@
     width: 100px;
     background-color: yellow;
     position: relative;
-    top: 200px;
+    bottom: 200px;
     left: 200px;
 
 }
