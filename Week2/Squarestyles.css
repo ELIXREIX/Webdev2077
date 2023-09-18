@@ -8,7 +8,7 @@
 .bottomcontainer {
     height: 100px;
     width: 100px;
-    background-color: yellow;
+    background-color: red;
     position: relative;
     left: 200px;
 
@@ -16,7 +16,7 @@
 .topcontainer {
     height: 100px;
     width: 100px;
-    background-color: red;
+    background-color: yellow;
     position: relative;
 }
 body{
