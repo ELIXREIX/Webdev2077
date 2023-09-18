@@ -4,6 +4,7 @@
     background-color: blue;
     position: relative;
     display: inline-block;
+    left: 200px;
 }
 .bottomcontainer {
     height: 100px;
@@ -11,6 +12,7 @@
     background-color: yellow;
     position: relative;;
     display: inline-block;
+    left: 300px;
 
 }
 .topcontainer {
@@ -19,6 +21,7 @@
     background-color: red;
     position: relative;
     display: inline-block;
+    left: 100px;
 
 }
 body{
