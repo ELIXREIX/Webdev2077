@@ -23,4 +23,6 @@
 }
 body{
     margin: 0px;
+    border-collapse: collapse;
+    padding: 0px;
 }
