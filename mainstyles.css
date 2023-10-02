@@ -1,18 +1,12 @@
 /* mainstyles.css */
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-/* Styles for the section with the background image */
-.background-image-section {
     background-image: url(https://media.discordapp.net/attachments/745333555177193553/1158256520585297980/Cosmic_HorrorC_1.png?ex=651b95f1&is=651a4471&hm=7946c22b62c84cad290f1817eb50f28a4fdd385e012056c968cd113b0d976f37&=&width=1177&height=662);
     image-rendering: auto;
     background-size: cover;
-    background-repeat: no-repeat;
-    padding: 80px 0;
-    text-align: center;
+    background-repeat: no-repeat; /* Don't repeat the background image */
+    margin: 0;
+    padding: 0;
 }
 
 .container {
@@ -49,7 +43,6 @@ h1 {
 }
 
 /* Custom styles for the landing page */
-
 
 .container {
     text-align: center;
