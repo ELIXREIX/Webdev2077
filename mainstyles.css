@@ -2,6 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     background-image: url(https://media.discordapp.net/attachments/745333555177193553/1158253527513169980/Cosmic_HorrorC_0.png?ex=651b9328&is=651a41a8&hm=8e95a1905671e29063642b5b63a0f940cc46b5f4e147bd11616956e9be57b649&=&width=662&height=662);
+    background-size: auto;  /* Cover the entire viewport */
     background-repeat: no-repeat; /* Don't repeat the background image */
     margin: 0;
     padding: 0;
