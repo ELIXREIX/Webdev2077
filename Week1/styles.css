@@ -25,7 +25,6 @@ body{
 }
 .bottom {
     background-color: #B9B4C7;
-    padding-bottom: 20px;
     margin: 10px;
     padding: 20px;
     text-align: center;
@@ -49,7 +48,7 @@ hr {
         margin: 10px auto ;
         padding: 0px ;
         border-collapse: collapse;
-        display: dotted;
+        display: none;
         border-style: dotted; /* Change the line style */
         border-width: 5px;
 }
