@@ -161,7 +161,7 @@ body {
 #PIM {
     scale: 50%;
     width: 20%; /* Set a fixed width */
-    height: 20% /* Set a fixed height */
+    height: 20%; /* Set a fixed height */
     border-radius: 50%; /* Create a circular shape */
     border-image: 20px  ;
 }
