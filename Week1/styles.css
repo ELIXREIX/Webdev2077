@@ -49,6 +49,8 @@ hr {
         padding: 0px ;
         border-collapse: collapse;
         display: dotted;
+        border-style: dotted; /* Change the line style */
+        border-width: 2px;
 }
 #goback-container {
     position: fixed;
