@@ -16,6 +16,9 @@ body{
     background-color: #B9B4C7;
     padding-bottom: 20px;
 }
+.section {
+    margin-bottom: 20px;
+}
 
 #Mypic {
     width: 200px; /* Set a fixed width */
