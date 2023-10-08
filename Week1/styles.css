@@ -155,8 +155,8 @@ body {
         display: flex;
     }
 }
-.navbar .navbar-nav .nav-item:nth-child(2) .nav-link,
-.navbar .navbar-nav .nav-item:nth-child(3) .nav-link {
-    margin-left: auto; /* Push the links to the right */
+.navbar .navbar-collapse .navbar-nav .nav-item:nth-child(2) .nav-link,
+.navbar .navbar-collapse .navbar-nav .nav-item:nth-child(3) .nav-link {
     text-align: right; /* Right-align the text */
+    padding-right: 15px; /* Add some padding for spacing */
 }
