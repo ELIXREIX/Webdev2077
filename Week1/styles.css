@@ -48,9 +48,9 @@ hr {
         margin: 10px auto ;
         padding: 0px ;
         border-collapse: collapse;
-        display: none;
+        display: inline-block;
         border-style: dotted; /* Change the line style */
-        border-width: 5px;
+        border-width: 0px;
 }
 #goback-container {
     position: fixed;
