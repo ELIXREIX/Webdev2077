@@ -50,7 +50,7 @@ hr {
         border-collapse: collapse;
         display: dotted;
         border-style: dotted; /* Change the line style */
-        border-width: 2px;
+        border-width: 5px;
 }
 #goback-container {
     position: fixed;
