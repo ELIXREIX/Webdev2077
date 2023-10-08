@@ -14,8 +14,8 @@ body{
 .Header {
     text-align: center;
     background-color:#FAF0E6;
-    margin: auto;
-    padding: auto;
+    margin: 10px;
+    padding: 10px;
 }
 .mid {
     background-color: #B9B4C7;
