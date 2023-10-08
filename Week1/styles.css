@@ -165,3 +165,6 @@ body {
     border-radius: 50%; /* Create a circular shape */
     border-image: 3px black ;
 }
+li {
+    line-height: 1.5;
+}
