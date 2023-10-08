@@ -84,7 +84,10 @@ hr {
     background-size: 100% 100%;/* Adjust the background size as needed */
     background-repeat: no-repeat;
     background-color: #FAF0E6;
-    color: white;s
      /* Prevent background image from repeating */ /* Set the height of the navbar as needed */
     /* Add other styles like padding, text color, etc. */
+}
+.navbar a {
+    color: white;
+    /* Add other link styles if needed (e.g., text-decoration, hover effects) */
 }
