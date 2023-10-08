@@ -159,6 +159,7 @@ body {
     margin-left: auto;
 }
 #PIM {
+    size : 20px;
     scale: 50%;
     width: 20%; /* Set a fixed width */
     height: 20%; /* Set a fixed height */
