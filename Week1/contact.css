@@ -68,7 +68,13 @@ img {
 .page-name {
     font-size: 18px; /* Customize the font size */
     font-weight: bold; /* Customize the font weight */
-    color: #1877f2; /* Customize the text color */
+    color: #1877f2; /* Cus
+    tomize the text color */
+}
+.page-name2 {
+    font-size: 18px; /* Customize the font size */
+    font-weight: bold; /* Customize the font weight */
+    color: pink; /* Cus
 }
 .container {
     background-color: black; /* Set the background color to black */
