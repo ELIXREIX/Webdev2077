@@ -38,11 +38,12 @@ body{
 hr {
         border: 0px black;
         border-style: dotted none none;
-        height: 2px;
+        height: 0px;
         width: 100% ; /* Adjusted to fill the page width */
         margin: 10px auto ;
         padding: 0px ;
         border-collapse: collapse;
+        display: none;
 }
 #goback-container {
     position: fixed;
