@@ -80,7 +80,7 @@ hr {
     border-radius: 5px;
 }
 .navbar {
-    background-image: url(https://media.discordapp.net/attachments/745333555177193553/1160589155026346075/image1_0.png?ex=653535e1&is=6522c0e1&hm=6c4d28b0b1aa8df949dffd21337456b29cf92c776532827e13a13351b08d58ca&=&width=1177&height=662); /* Replace with your image path */
+    background-image: url(https://cdn.gencraft.com/prod/user/09eccf11-2b10-41b2-8093-1d677a8c5927/a9c3fa9a-6816-4973-92da-7aa4e8914abc/images/image0_0.jpg?Expires=1696863064&Signature=WY6c1jiTbR~aCSOoOKqJINRYHYGXOKoUPx3N1f1MHUqKnxBxvHakBgvxUEuDL~NFS~4ZiAJJnZoHtPiDJr7jem4XNLKFFHc5gYP1WSulrO8ifvVxsWIiFg6OXVDwoMxdlEqz9jBYpvENY6u2pMeLBcFNd11vfg8GgpSAXfZUSAx2S426C4qntlavGvkUMJUtHadOWas4VkkUhmnGcB~23EBMB540TmdPYiwEuT2Tov5igq88LRNObN3iZRJkvJlGwvQxX9VRuMFrqimb~ZMRkKe6SaeocsNUiTYYTXQSPtCoc~RbxgpYMK0PrAiSViL5PZ5JBdqIqUKnJnUy2wRkCw__&Key-Pair-Id=K3RDDB1TZ8BHT8); /* Replace with your image path */
     background-size: 100% 100%;/* Adjust the background size as needed */
     background-repeat: no-repeat;
     background-color: #FAF0E6; /* Prevent background image from repeating */ /* Set the height of the navbar as needed */
