@@ -81,7 +81,7 @@ hr {
 }
 .navbar {
     background-image: url(https://cdn.gencraft.com/prod/user/09eccf11-2b10-41b2-8093-1d677a8c5927/7c972923-3247-4414-ba36-1b551818a524/images/image1_0.jpg?Expires=1696863123&Signature=P8~bMat7IvfjPgWkbxDcftE8si4EwQbxcJhG9r1yy1HlWg8iHzJz-RmqkGbnDYzoelMSkjT4i4j31jc7yx-tq2mrvpVP2~BHvogE4yQu26kw8ZKkCg3qqsMx1NlCZFbxSTCryQFdmoTtqgiIxhyHWr7wfvM-rN4t1UJB3ugTH6SdPnt7EQdcF-ipkI4fRF5RPVLIcMtGO5Jy5Z9F0I~KptraOWV5Uk6wPcGArLCFXCwGCYdjQn80RAlSnPrlFMrdFpfELk0RhuV6uNf5BhINDQSWDblLkAP2bh8qUG6TXjno8X20ZzVWR4~ZJKeR1y2LdLDF9lpB3QOi632~NEjH3A__&Key-Pair-Id=K3RDDB1TZ8BHT8); /* Replace with your image path */
-    background-size: 50% 100%;/* Adjust the background size as needed */
+    background-size: 100% 50%;/* Adjust the background size as needed */
     background-repeat: no-repeat;
     background-color: #FAF0E6; /* Prevent background image from repeating */ /* Set the height of the navbar as needed */
     /* Add other styles like padding, text color, etc. */
