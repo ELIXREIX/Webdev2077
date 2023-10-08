@@ -86,7 +86,7 @@ hr {
     background-size: 100% 100%;/* Adjust the background size as needed */
     background-repeat: no-repeat;
     background-color: #FAF0E6;
-    direction: rtl;
+    
      /* Prevent background image from repeating */ /* Set the height of the navbar as needed */
     /* Add other styles like padding, text color, etc. */
 }
@@ -162,4 +162,7 @@ body {
     .nav-links.active {
         display: flex;
     }
+}
+.navbar .navbar-nav {
+    text-align: right; /* Right-align the navigation links */
 }
