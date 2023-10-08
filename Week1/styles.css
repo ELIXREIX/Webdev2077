@@ -5,7 +5,7 @@ body{
     background-color: #EADBC8;
 }
 .Header {
-
+    text-align: center;
     background-color:#FAF0E6;
 }
 .mid {
@@ -21,7 +21,6 @@ body{
     height: 220px; /* Set a fixed height */
     border-radius: 50%; /* Create a circular shape */
     border-image: 3px black ;
-    text-align: center
 }
 hr {
         border: 0px black;
