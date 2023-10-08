@@ -40,12 +40,11 @@ body{
     border-image: 3px black ;
 }
 hr {
-        text-align: center;
         border: 10px black;
         border-style: dotted none none;
         height: 0px;
         size: 5px;
-        width: 80% ; /* Adjusted to fill the page width */
+        width: 100% ; /* Adjusted to fill the page width */
         margin: 10px auto ;
         padding: 0px ;
         border-collapse: collapse;
