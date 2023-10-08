@@ -80,9 +80,8 @@ hr {
     border-radius: 5px;
 }
 .navbar {
-    background-image: url(https://media.discordapp.net/attachments/745333555177193553/1160587619500052593/image0_0.png?ex=65353473&is=6522bf73&hm=170922f259c89a5fdf87f75649cc24b21440193a9745aeae255ff35ec1cc2c15&=&width=662&height=662); /* Replace with your image path */
-    background-size: contain;
-    background-size: 800%;/* Adjust the background size as needed */
+    background-image: url(https://media.discordapp.net/attachments/745333555177193553/1160589155026346075/image1_0.png?ex=653535e1&is=6522c0e1&hm=6c4d28b0b1aa8df949dffd21337456b29cf92c776532827e13a13351b08d58ca&=&width=1177&height=662); /* Replace with your image path */
+    background-size: cover;/* Adjust the background size as needed */
     background-repeat: no-repeat; /* Prevent background image from repeating */ /* Set the height of the navbar as needed */
     /* Add other styles like padding, text color, etc. */
 }
