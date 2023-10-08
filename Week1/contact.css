@@ -66,9 +66,12 @@ img {
     align-items: center;
 }
 
-
 .page-name {
     font-size: 18px; /* Customize the font size */
     font-weight: bold; /* Customize the font weight */
     color: #1877f2; /* Customize the text color */
+}
+.container {
+    background-color: black; /* Set the background color to black */
+    padding: 20px; /* Add some padding to the container */
 }
