@@ -159,10 +159,8 @@ body {
     margin-left: auto;
 }
 #PIM {
-    size : 20px;
-    scale: 50%;
-    width: 20%; /* Set a fixed width */
-    height: 20%; /* Set a fixed height */
+    width: 200px; /* Set a fixed width */
+    height: 220px; /* Set a fixed height */
     border-radius: 50%; /* Create a circular shape */
-    border-image: 20px  ;
+    border-image: 3px black ;
 }
