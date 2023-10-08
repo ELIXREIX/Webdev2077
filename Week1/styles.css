@@ -36,9 +36,9 @@ body{
 hr {
         border: 0px black;
         border-style: dotted none none;
-        height: 0px;
+        height: 2px;
         width: 100% ; /* Adjusted to fill the page width */
-        margin: 0px ;
+        margin: 10px auto ;
         padding: 0px ;
         border-collapse: collapse;
 }
