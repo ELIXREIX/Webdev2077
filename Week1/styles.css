@@ -81,7 +81,7 @@ hr {
 }
 .navbar {
     background-image: url(https://media.discordapp.net/attachments/745333555177193553/1160587619500052593/image0_0.png?ex=65353473&is=6522bf73&hm=170922f259c89a5fdf87f75649cc24b21440193a9745aeae255ff35ec1cc2c15&=&width=662&height=662); /* Replace with your image path */
-    background-size: cover; /* Adjust the background size as needed */
+    background-size: auto;/* Adjust the background size as needed */
     background-repeat: no-repeat; /* Prevent background image from repeating */ /* Set the height of the navbar as needed */
     /* Add other styles like padding, text color, etc. */
 }
