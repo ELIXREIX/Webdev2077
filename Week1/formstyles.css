@@ -1,9 +1,15 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #EADBC8;
+    background-image: url(https://media.discordapp.net/attachments/745333555177193553/1160620632749387896/image0_0.png?ex=65355332&is=6522de32&hm=3e283221744c9dddf4a15680e0c03a5867dda660e6b2243dc30dbfd3de92f992&=&width=1177&height=662);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    height: 100%;
     margin: 0;
     padding: 0;
+    font-family: Arial, sans-serif;
 }
 
 h1 {
