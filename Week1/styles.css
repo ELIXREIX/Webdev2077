@@ -10,6 +10,7 @@ body{
 }
 .mid {
     background-color: #B9B4C7;
+    text-align: center;
 }
 .bottom {
     background-color: #B9B4C7;
@@ -34,18 +35,6 @@ hr {
     position: fixed;
     top: 20px;
     right: 20px;
-}
-
-#goback-button {
-    padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-#goback-button:hover {
-    background-color: #555;
 }
 
 .my-table {
