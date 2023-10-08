@@ -91,3 +91,6 @@ hr {
     color: white;
     /* Add other link styles if needed (e.g., text-decoration, hover effects) */
 }
+table{
+    text-align: center;
+}
