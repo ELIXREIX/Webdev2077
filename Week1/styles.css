@@ -60,7 +60,9 @@ hr {
 
 .my-table {
     border-collapse: collapse;
-    background-color: #5C5470; /* Black background color */
+    background-color: #5C5470;
+    margin: 0 auto;
+    width: 50%; /* Adjust the width as needed */ /* Black background color */
 }
 
 .my-table th,
