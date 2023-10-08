@@ -155,3 +155,6 @@ body {
         display: flex;
     }
 }
+.navbar-nav {
+    margin-left: auto;
+}
