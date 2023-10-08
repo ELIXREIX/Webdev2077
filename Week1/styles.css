@@ -40,6 +40,7 @@ body{
     border-image: 3px black ;
 }
 hr {
+        text-align: center;
         border: 10px black;
         border-style: dotted none none;
         height: 0px;
