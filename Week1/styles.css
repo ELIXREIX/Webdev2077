@@ -43,7 +43,7 @@ hr {
         margin: 10px auto ;
         padding: 0px ;
         border-collapse: collapse;
-        display: none;
+        display: block;
 }
 #goback-container {
     position: fixed;
