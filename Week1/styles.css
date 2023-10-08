@@ -3,13 +3,15 @@ h3 {
 }
 body{
     background-color: #EADBC8;
-    margin: 0px;
     background-image: url(https://cdn.discordapp.com/attachments/745333555177193553/1160578030083772447/image1_0.jpg?ex=65352b84&is=6522b684&hm=521cebbbff3cf81422dde6ee48d5d022f84ebe141ccc5ca5dde3c1c4035aeba2&);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
     height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
 }
 .Header {
     text-align: center;
@@ -97,4 +99,72 @@ table{
 .center-table {
     margin: 0 auto;
     width: 50%; /* Adjust the width as needed */
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.bar {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 3px 0;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: flex;
+    }
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        background-color: #333;
+        text-align: center;
+    }
+    .nav-links.active {
+        display: flex;
+    }
 }
