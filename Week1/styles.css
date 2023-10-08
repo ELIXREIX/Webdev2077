@@ -155,6 +155,6 @@ body {
         display: flex;
     }
 }
-.navbar .navbar-nav {
-    text-align: right; /* Right-align the navigation links */
+.navbar .navbar-nav .nav-item .nav-link {
+    text-align: right; /* Right-align the navigation link text */
 }
