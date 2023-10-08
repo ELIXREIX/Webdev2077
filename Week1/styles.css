@@ -157,6 +157,6 @@ body {
 }
 .navbar .navbar-nav .nav-item:nth-child(2) .nav-link,
 .navbar .navbar-nav .nav-item:nth-child(3) .nav-link {
+    margin-left: auto; /* Push the links to the right */
     text-align: right; /* Right-align the text */
-    /* Add other styles as needed */
 }
