@@ -14,6 +14,7 @@ body{
 .Header {
     text-align: center;
     background-color:#FAF0E6;
+    margin: auto;
 }
 .mid {
     background-color: #B9B4C7;
